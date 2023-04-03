@@ -1,1 +1,28 @@
-
+p{
+ color: blue;
+ font-family: Georgia;
+}
+ul{
+ font-size: 14px;
+  display: inline-block;
+}
+ol{
+ font-width: 20px;
+  font-height: 20px;
+}
+h1{
+ padding-top: 80px;
+  margin-bottom: 80px;
+}
+header{
+ background-color: #FF0000;
+  font-family: helvetica;
+}
+body{
+ font-family: "Open Sans", sans-serif;
+  color: #717D7E;
+}
+footer{
+ background-size: cover;
+  text-align: center;
+}
